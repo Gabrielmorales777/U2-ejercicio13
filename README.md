@@ -10,4 +10,4 @@ El controlador mantiene una base de datos interna de permisos y verifica si el n
 
 El objetivo es practicar la **comunicación entre objetos**, las asociaciones, el uso de colecciones (`Map`), los métodos con retorno booleano y la validación de permisos.
 
-![Ejercicio 13](U2%20ejercicio12.png)
+![Ejercicio 13](U2%20ejercicio13.png)
