@@ -9,3 +9,5 @@ La clase `TarjetaRFID` representa las credenciales de los empleados, almacenando
 El controlador mantiene una base de datos interna de permisos y verifica si el nivel de acceso de la tarjeta es suficiente para ingresar a la zona. El método `verificarAcceso()` retorna un valor booleano que permite al lector informar si el acceso fue autorizado o denegado.
 
 El objetivo es practicar la **comunicación entre objetos**, las asociaciones, el uso de colecciones (`Map`), los métodos con retorno booleano y la validación de permisos.
+
+![Ejercicio 13](U2%20ejercicio12.png)
